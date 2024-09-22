@@ -1,0 +1,21 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    background-color: #ffdd00;
+    color: #000000;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+section {
+    margin: 0 auto;
+}
+
+input {
+    font: inherit;
+}
